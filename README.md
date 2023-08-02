@@ -9,12 +9,10 @@ copy the executable folder link from above and paste it to [DownGit Site] below 
 Source files at src folder
 
 App screenshots:
-![Quiz front] (screenshots/quizfront.JPG)
-![Quiz Question] (screenshots/quizBareQuestion.JPG)
-![Quiz Media Question] (screenshots/quizWaterfall.JPG)
-
 <p align="center">
   <img src="screenshots/quizfront.JPG" width="350" title="hover text">
   <img src="screenshots/quizWaterfall.JPG" width="350" alt="accessibility text">
+  <img src="screenshots/quizBareQuestion.JPG" width="350" alt="accessibility text">
+  
 </p>
 
