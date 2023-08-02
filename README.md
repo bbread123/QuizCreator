@@ -13,3 +13,8 @@ App screenshots:
 ![Quiz Question] (screenshots/quizBareQuestion.JPG)
 ![Quiz Media Question] (screenshots/quizWaterfall.JPG)
 
+<p align="center">
+  <img src="screenshots/quizfront.JPG" width="350" title="hover text">
+  <img src="screenshots/quizWaterfall.JPG" width="350" alt="accessibility text">
+</p>
+
