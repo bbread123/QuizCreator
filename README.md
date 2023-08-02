@@ -1,4 +1,5 @@
-# QuizCreator
+# QuizOrganizor 
+for organizing quizzes in local style in Nepal
 
 To run the executable file:
 ```
