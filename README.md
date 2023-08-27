@@ -11,10 +11,10 @@ Source files at src folder
 
 App screenshots:
 <p align="center">
-  <img src="screenshots/quizfront.JPG" width="350" title="hover text">
-  <img src="screenshots/quizWaterfall.JPG" width="350" alt="accessibility text">
-  <img src="screenshots/quizBareQuestion.JPG" width="350" alt="accessibility text">
-  <br> The question file should contain a question and answer and media file name in selected media folder (optional) in a single line seperated by commas. Example <br> <img src="screenshots/quizQuestionFile.JPG" width="350" alt="accessibility text">
+  <img src="screenshots/quizDialog.JPG" width="350" title="hover text">
+  <img src="screenshots/quizVisual.JPG" width="350" alt="accessibility text">
+  <img src="screenshots/quizText.JPG" width="350" alt="accessibility text">
+  <br> The question file should contain a question and answer and media file name in selected media folder (optional) in a single line seperated by commas. Example <br> <img src="screenshots/questions.JPG" width="350" alt="accessibility text">
 </p>
 
 
