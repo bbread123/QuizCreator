@@ -1,5 +1,5 @@
 # QuizOrganizor 
-for organizing quizzes in traditional style in Nepalese school
+for organizing quizzes in traditional style in Nepalese schools
 
 To run the executable file:
 ```
