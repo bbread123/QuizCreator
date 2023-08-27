@@ -1,13 +1,13 @@
 # QuizOrganizor 
-for organizing quizzes in local style in Nepal
+for organizing quizzes in traditional style in Nepal
 
 To run the executable file:
 ```
 (https://github.com/bbread123/QuizCreator/tree/main/executable)
 ```
-copy the executable folder link from above and paste it to [DownGit Site] (https://minhaskamal.github.io/DownGit/#/home) 
+copy the Executable folder link from above and paste it to [DownGit Site] (https://minhaskamal.github.io/DownGit/#/home) and simply double click the "test.exe" file.
 
-Source files at src folder
+Source files at sourceFiles folder
 
 App screenshots:
 <p align="center">
